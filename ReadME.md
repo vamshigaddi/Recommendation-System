@@ -55,6 +55,19 @@ This framing allows us to handle:
   - Continue reading
   - Discover new books
 
+
+---
+
+## How to Run
+
+1. Clone the repository:
+   
+```bash
+   git clone https://github.com/vamshigaddi/Recommendation-System.git
+```
+
+2. Run the test.ipyndb notebook
+
 ---
 
 ## Evaluation
@@ -76,19 +89,6 @@ This framing allows us to handle:
 - Did not use complex models (LightGBM, ALS) due to time constraints
 - Limited evaluation due to lack of timestamps and explicit feedback
 
----
-
-## How to Run
-
-1. Clone the repository:
-   
-```bash
-   git clone https://github.com/vamshigaddi/Recommendation-System.git
-```
-
-2. Run the test.ipyndb notebook
-
----
 
 ## Future Improvements
 
