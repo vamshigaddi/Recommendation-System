@@ -17,7 +17,7 @@ The system handles:
 
 ## Problem Framing
 
-We define three tasks:
+I have defined into three tasks:
 
 1. **Next Chapter Prediction**
    - Recommend the next chapter within a book using sequence
