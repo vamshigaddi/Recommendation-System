@@ -77,9 +77,9 @@ We define three tasks:
 
 ## Future Improvements
 
-- Use timestamps to model user behavior more accurately
-- Add collaborative filtering for better personalization
-- Use ranking models to combine multiple signals
+- Using timestamps to model user behavior more accurately
+- Adding collaborative filtering for better personalization
+- Using ranking models to combine multiple signals
 
 ---
 
