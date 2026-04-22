@@ -66,17 +66,20 @@ We define three tasks:
 ## How to Run
 
 1. Clone the repository:
---
+   
+```bash
+   git clone https://github.com/vamshigaddi/Recommendation-System.git
+```
 
-2.Run the notebook `notebooks/recommendation_system.ipynb`
+2. Run the test.ipyndb notebook
 
 ---
 
 ## Future Improvements
 
-- Use timestamps to model user behavior more accurately
-- Add collaborative filtering for better personalization
-- Use ranking models to combine multiple signals
+- Using timestamps to model user behavior more accurately
+- Adding collaborative filtering for better personalization
+- Using ranking models to combine multiple signals
 
 ---
 
