@@ -67,7 +67,7 @@ We define three tasks:
 
 1. Clone the repository:
    ``
-   https://github.com/vamshigaddi/Recommendation-System.git
+   - https://github.com/vamshigaddi/Recommendation-System.git
    ``
 --
 
