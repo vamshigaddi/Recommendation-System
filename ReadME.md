@@ -66,12 +66,12 @@ We define three tasks:
 ## How to Run
 
 1. Clone the repository:
-   ``
-   - https://github.com/vamshigaddi/Recommendation-System.git
-   ``
---
+   
+```bash
+   git clone https://github.com/vamshigaddi/Recommendation-System.git
+```
 
-2.Run the test.ipyndb notebook
+2. Run the test.ipyndb notebook
 
 ---
 
